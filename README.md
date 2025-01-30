@@ -1,4 +1,4 @@
-##StockPilot
+## StockPilot
 
 StockPilot is a comprehensive stock booking and selling platform with an interactive landing page. The project includes a detailed overview of the product and its features, providing users with a seamless experience for stock transactions.
 
